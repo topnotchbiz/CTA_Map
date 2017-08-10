@@ -1,0 +1,1172 @@
+[
+  {
+    "Stations": "Belmont - Brown, Purple, Red",
+    "Total Crimes": 152,
+    "Notes": "4 reports of criminal sexual assault",
+    "Theft & Robbery": 89,
+    "Assault & Battery": 57,
+    "Other": 6,
+    "Ranking": 1
+  },
+  {
+    "Stations": "Washington - Blue",
+    "Total Crimes": 149,
+    "Notes": "",
+    "Theft & Robbery": 102,
+    "Assault & Battery": 43,
+    "Other": 4,
+    "Ranking": 2
+  },
+  {
+    "Stations": "Roosevelt - Green, Orange, Red",
+    "Total Crimes": 144,
+    "Notes": "",
+    "Theft & Robbery": 95,
+    "Assault & Battery": 42,
+    "Other": 7,
+    "Ranking": 3
+  },
+  {
+    "Stations": "Clark/Lake - Blue, Brown, Green, Orange, Pink, Purple",
+    "Total Crimes": 109,
+    "Notes": "",
+    "Theft & Robbery": 90,
+    "Assault & Battery": 16,
+    "Other": 3,
+    "Ranking": 4
+  },
+  {
+    "Stations": "Lake - Red",
+    "Total Crimes": 99,
+    "Notes": "",
+    "Theft & Robbery": 73,
+    "Assault & Battery": 26,
+    "Other": 0,
+    "Ranking": 5
+  },
+  {
+    "Stations": "Chicago - Red",
+    "Total Crimes": 95,
+    "Notes": "",
+    "Theft & Robbery": 71,
+    "Assault & Battery": 22,
+    "Other": 2,
+    "Ranking": 6
+  },
+  {
+    "Stations": "Addison - Red",
+    "Total Crimes": 92,
+    "Notes": "",
+    "Theft & Robbery": 54,
+    "Assault & Battery": 36,
+    "Other": 2,
+    "Ranking": 7
+  },
+  {
+    "Stations": "Pulaski - Blue",
+    "Total Crimes": 78,
+    "Notes": "",
+    "Theft & Robbery": 53,
+    "Assault & Battery": 25,
+    "Other": 0,
+    "Ranking": 8
+  },
+  {
+    "Stations": "95th/Dan Ryan - Red",
+    "Total Crimes": 76,
+    "Notes": "",
+    "Theft & Robbery": 47,
+    "Assault & Battery": 27,
+    "Other": 1,
+    "Ranking": 9
+  },
+  {
+    "Stations": "Grand - Red",
+    "Total Crimes": 73,
+    "Notes": "",
+    "Theft & Robbery": 62,
+    "Assault & Battery": 7,
+    "Other": 4,
+    "Ranking": 10
+  },
+  {
+    "Stations": "79th - Red",
+    "Total Crimes": 72,
+    "Notes": "",
+    "Theft & Robbery": 51,
+    "Assault & Battery": 20,
+    "Other": 1,
+    "Ranking": 11
+  },
+  {
+    "Stations": "Monroe - Red",
+    "Total Crimes": 62,
+    "Notes": "",
+    "Theft & Robbery": 43,
+    "Assault & Battery": 18,
+    "Other": 1,
+    "Ranking": 12
+  },
+  {
+    "Stations": "Howard - Purple, Red, Yellow",
+    "Total Crimes": 61,
+    "Notes": "",
+    "Theft & Robbery": 40,
+    "Assault & Battery": 20,
+    "Other": 1,
+    "Ranking": 13
+  },
+  {
+    "Stations": "Sox-35th - Red",
+    "Total Crimes": 59,
+    "Notes": "",
+    "Theft & Robbery": 33,
+    "Assault & Battery": 26,
+    "Other": 0,
+    "Ranking": 14
+  },
+  {
+    "Stations": "Damen - Blue",
+    "Total Crimes": 59,
+    "Notes": "",
+    "Theft & Robbery": 36,
+    "Assault & Battery": 23,
+    "Other": 0,
+    "Ranking": 14
+  },
+  {
+    "Stations": "Cicero - Blue",
+    "Total Crimes": 59,
+    "Notes": "",
+    "Theft & Robbery": 42,
+    "Assault & Battery": 16,
+    "Other": 1,
+    "Ranking": 14
+  },
+  {
+    "Stations": "Sedgwick - Brown, Purple",
+    "Total Crimes": 57,
+    "Notes": "",
+    "Theft & Robbery": 34,
+    "Assault & Battery": 21,
+    "Other": 2,
+    "Ranking": 17
+  },
+  {
+    "Stations": "King Drive - Green",
+    "Total Crimes": 53,
+    "Notes": "",
+    "Theft & Robbery": 23,
+    "Assault & Battery": 28,
+    "Other": 2,
+    "Ranking": 18
+  },
+  {
+    "Stations": "Central Park - Pink",
+    "Total Crimes": 53,
+    "Notes": "",
+    "Theft & Robbery": 44,
+    "Assault & Battery": 9,
+    "Other": 0,
+    "Ranking": 18
+  },
+  {
+    "Stations": "69th - Red",
+    "Total Crimes": 52,
+    "Notes": "",
+    "Theft & Robbery": 37,
+    "Assault & Battery": 15,
+    "Other": 0,
+    "Ranking": 20
+  },
+  {
+    "Stations": "Garfield - Red",
+    "Total Crimes": 48,
+    "Notes": "",
+    "Theft & Robbery": 33,
+    "Assault & Battery": 14,
+    "Other": 1,
+    "Ranking": 21
+  },
+  {
+    "Stations": "Western - Blue",
+    "Total Crimes": 47,
+    "Notes": "",
+    "Theft & Robbery": 25,
+    "Assault & Battery": 20,
+    "Other": 2,
+    "Ranking": 22
+  },
+  {
+    "Stations": "Division - Blue",
+    "Total Crimes": 46,
+    "Notes": "",
+    "Theft & Robbery": 31,
+    "Assault & Battery": 13,
+    "Other": 2,
+    "Ranking": 23
+  },
+  {
+    "Stations": "Jackson - Blue",
+    "Total Crimes": 42,
+    "Notes": "",
+    "Theft & Robbery": 31,
+    "Assault & Battery": 10,
+    "Other": 1,
+    "Ranking": 24
+  },
+  {
+    "Stations": "Kedzie-Homan - Blue",
+    "Total Crimes": 41,
+    "Notes": "",
+    "Theft & Robbery": 30,
+    "Assault & Battery": 11,
+    "Other": 0,
+    "Ranking": 25
+  },
+  {
+    "Stations": "Berwyn - Red",
+    "Total Crimes": 41,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 25
+  },
+  {
+    "Stations": "Jackson - Red",
+    "Total Crimes": 39,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 27
+  },
+  {
+    "Stations": "Clark/Division - Red",
+    "Total Crimes": 39,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 27
+  },
+  {
+    "Stations": "Loyola - Red",
+    "Total Crimes": 36,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 29
+  },
+  {
+    "Stations": "Logan Square - Blue",
+    "Total Crimes": 35,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 30
+  },
+  {
+    "Stations": "Fullerton - Brown, Purple, red",
+    "Total Crimes": 35,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 30
+  },
+  {
+    "Stations": "Jarvis - Red",
+    "Total Crimes": 33,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 32
+  },
+  {
+    "Stations": "Harrison - Red",
+    "Total Crimes": 33,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 32
+  },
+  {
+    "Stations": "Clinton - Green, Pink",
+    "Total Crimes": 33,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 32
+  },
+  {
+    "Stations": "Ashland - Green, Pink",
+    "Total Crimes": 32,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 35
+  },
+  {
+    "Stations": "51st - Green",
+    "Total Crimes": 31,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 36
+  },
+  {
+    "Stations": "47th - Green, Red",
+    "Total Crimes": 31,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 36
+  },
+  {
+    "Stations": "Jefferson Park - Blue",
+    "Total Crimes": 30,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 38
+  },
+  {
+    "Stations": "Argyle - Red",
+    "Total Crimes": 29,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 39
+  },
+  {
+    "Stations": "Wilson - Purple, Red",
+    "Total Crimes": 28,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 40
+  },
+  {
+    "Stations": "Randolph/Wabash - Brown, Orange, Pink, Purple",
+    "Total Crimes": 28,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 40
+  },
+  {
+    "Stations": "63rd - Red",
+    "Total Crimes": 28,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 40
+  },
+  {
+    "Stations": "Indiana - Green",
+    "Total Crimes": 27,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 43
+  },
+  {
+    "Stations": "Bryn Mawr - Red",
+    "Total Crimes": 27,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 43
+  },
+  {
+    "Stations": "Harold Washington Library-State/Van Buren - Brown, Orange, Pink, Purple",
+    "Total Crimes": 26,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 45
+  },
+  {
+    "Stations": "Clinton - Blue",
+    "Total Crimes": 25,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 46
+  },
+  {
+    "Stations": "Thorndale - Red",
+    "Total Crimes": 22,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 47
+  },
+  {
+    "Stations": "Central - Green",
+    "Total Crimes": 22,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 47
+  },
+  {
+    "Stations": "Ashland/63rd - Green",
+    "Total Crimes": 22,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 47
+  },
+  {
+    "Stations": "Adams/Wabash - Brown, Green, Orange, Pink, Purple",
+    "Total Crimes": 22,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 47
+  },
+  {
+    "Stations": "47th - Red",
+    "Total Crimes": 22,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 47
+  },
+  {
+    "Stations": "O'Hare - Blue",
+    "Total Crimes": 20,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 52
+  },
+  {
+    "Stations": "Cermak-Chinatown - Red",
+    "Total Crimes": 20,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 52
+  },
+  {
+    "Stations": "Sheridan - Purple, Red",
+    "Total Crimes": 19,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 54
+  },
+  {
+    "Stations": "Pulaski - Green",
+    "Total Crimes": 19,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 54
+  },
+  {
+    "Stations": "87th - Red",
+    "Total Crimes": 19,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 54
+  },
+  {
+    "Stations": "Western - Orange",
+    "Total Crimes": 18,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 57
+  },
+  {
+    "Stations": "Merchandise Mart - Brown, Purple",
+    "Total Crimes": 18,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 57
+  },
+  {
+    "Stations": "Garfield - Green",
+    "Total Crimes": 18,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 57
+  },
+  {
+    "Stations": "Morse - Red",
+    "Total Crimes": 17,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 60
+  },
+  {
+    "Stations": "Belmont - Blue",
+    "Total Crimes": 17,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 60
+  },
+  {
+    "Stations": "Washington/Wells - Brown, Orange, Pink, Purple",
+    "Total Crimes": 16,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 62
+  },
+  {
+    "Stations": "Racine - Blue",
+    "Total Crimes": 16,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 62
+  },
+  {
+    "Stations": "Monroe - Blue",
+    "Total Crimes": 15,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 64
+  },
+  {
+    "Stations": "Chicago - Brown, Purple",
+    "Total Crimes": 15,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 64
+  },
+  {
+    "Stations": "UIC-Halsted - Blue",
+    "Total Crimes": 14,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 66
+  },
+  {
+    "Stations": "Quincy/Wells - Brown, Orange, Pink, Purple",
+    "Total Crimes": 14,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 66
+  },
+  {
+    "Stations": "Harlem - Blue",
+    "Total Crimes": 14,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 66
+  },
+  {
+    "Stations": "Halsted - Green",
+    "Total Crimes": 14,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 66
+  },
+  {
+    "Stations": "Armitage - Brown, Purple",
+    "Total Crimes": 14,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 66
+  },
+  {
+    "Stations": "35th-Bronzeville-IIT - Green",
+    "Total Crimes": 14,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 66
+  },
+  {
+    "Stations": "LaSalle/Van Buren - Brown, Orange, Pink, Purple",
+    "Total Crimes": 13,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 72
+  },
+  {
+    "Stations": "Austin - Green",
+    "Total Crimes": 13,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 72
+  },
+  {
+    "Stations": "Laramie - Green",
+    "Total Crimes": 12,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 74
+  },
+  {
+    "Stations": "Kimball - Brown",
+    "Total Crimes": 12,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 74
+  },
+  {
+    "Stations": "Cottage Grove - Green",
+    "Total Crimes": 12,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 74
+  },
+  {
+    "Stations": "35th/Archer - Orange",
+    "Total Crimes": 12,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 74
+  },
+  {
+    "Stations": "Morgan - Green, Pink",
+    "Total Crimes": 11,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 78
+  },
+  {
+    "Stations": "Midway - Orange",
+    "Total Crimes": 11,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 78
+  },
+  {
+    "Stations": "Cicero - Green",
+    "Total Crimes": 11,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 78
+  },
+  {
+    "Stations": "Lawrence - Red",
+    "Total Crimes": 10,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 81
+  },
+  {
+    "Stations": "LaSalle - Blue",
+    "Total Crimes": 10,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 81
+  },
+  {
+    "Stations": "Halsted - Orange",
+    "Total Crimes": 10,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 81
+  },
+  {
+    "Stations": "43rd - Green",
+    "Total Crimes": 10,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 81
+  },
+  {
+    "Stations": "Pulaski - Orange",
+    "Total Crimes": 9,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 85
+  },
+  {
+    "Stations": "Kostner - Pink",
+    "Total Crimes": 9,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 85
+  },
+  {
+    "Stations": "Kedzie - Pink",
+    "Total Crimes": 9,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 85
+  },
+  {
+    "Stations": "Irving Park - Blue",
+    "Total Crimes": 9,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 85
+  },
+  {
+    "Stations": "Damen - Pink",
+    "Total Crimes": 9,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 85
+  },
+  {
+    "Stations": "Chicago - Blue",
+    "Total Crimes": 9,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 85
+  },
+  {
+    "Stations": "California - Pink",
+    "Total Crimes": 9,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 85
+  },
+  {
+    "Stations": "Kedzie - Orange",
+    "Total Crimes": 8,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 92
+  },
+  {
+    "Stations": "Grand - Blue",
+    "Total Crimes": 8,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 92
+  },
+  {
+    "Stations": "Diversey - Brown, Purple",
+    "Total Crimes": 8,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 92
+  },
+  {
+    "Stations": "Conservatory - Green",
+    "Total Crimes": 8,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 92
+  },
+  {
+    "Stations": "Pulaski - Pink",
+    "Total Crimes": 7,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 96
+  },
+  {
+    "Stations": "Montrose - Blue",
+    "Total Crimes": 7,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 96
+  },
+  {
+    "Stations": "Cumberland - Blue",
+    "Total Crimes": 7,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 96
+  },
+  {
+    "Stations": "Kedzie - Green",
+    "Total Crimes": 6,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 99
+  },
+  {
+    "Stations": "Granville - Red",
+    "Total Crimes": 6,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 99
+  },
+  {
+    "Stations": "California - Blue",
+    "Total Crimes": 6,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 99
+  },
+  {
+    "Stations": "Western - Pink",
+    "Total Crimes": 5,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 102
+  },
+  {
+    "Stations": "Western - Brown",
+    "Total Crimes": 5,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 102
+  },
+  {
+    "Stations": "Montrose - Brown",
+    "Total Crimes": 5,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 102
+  },
+  {
+    "Stations": "Illinois Medical District - Blue",
+    "Total Crimes": 5,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 102
+  },
+  {
+    "Stations": "Cottage Grove - Green",
+    "Total Crimes": 5,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 102
+  },
+  {
+    "Stations": "Cermak-McCormick Place - Green",
+    "Total Crimes": 5,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 102
+  },
+  {
+    "Stations": "Wellington - Brown, Purple",
+    "Total Crimes": 4,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 108
+  },
+  {
+    "Stations": "Randolph/Wabash - Brown, Green, Orange, Pink, Purple",
+    "Total Crimes": 4,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 108
+  },
+  {
+    "Stations": "Damen - Brown",
+    "Total Crimes": 4,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 108
+  },
+  {
+    "Stations": "California - Green",
+    "Total Crimes": 4,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 108
+  },
+  {
+    "Stations": "Kedzie - Blue",
+    "Total Crimes": 3,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 112
+  },
+  {
+    "Stations": "Addison - Brown",
+    "Total Crimes": 3,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 112
+  },
+  {
+    "Stations": "18th - Pink",
+    "Total Crimes": 3,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 112
+  },
+  {
+    "Stations": "Southport - Brown",
+    "Total Crimes": 2,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 115
+  },
+  {
+    "Stations": "Rockwell - Brown",
+    "Total Crimes": 2,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 115
+  },
+  {
+    "Stations": "Polk - Pink",
+    "Total Crimes": 2,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 115
+  },
+  {
+    "Stations": "Kedzie - Green",
+    "Total Crimes": 2,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 115
+  },
+  {
+    "Stations": "Kedzie - Brown",
+    "Total Crimes": 2,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 115
+  },
+  {
+    "Stations": "Irving Park - Brown",
+    "Total Crimes": 2,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 115
+  },
+  {
+    "Stations": "Clark/Division - Red",
+    "Total Crimes": 2,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 115
+  },
+  {
+    "Stations": "California - Green",
+    "Total Crimes": 2,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 115
+  },
+  {
+    "Stations": "35/Archer - Orange",
+    "Total Crimes": 2,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 115
+  },
+  {
+    "Stations": "Rosemont - Blue",
+    "Total Crimes": 1,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 124
+  },
+  {
+    "Stations": "Kostner - Orange",
+    "Total Crimes": 1,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 124
+  },
+  {
+    "Stations": "Howard - Red",
+    "Total Crimes": 1,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 124
+  },
+  {
+    "Stations": "Diversey - Brown, Purplr",
+    "Total Crimes": 1,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 124
+  },
+  {
+    "Stations": "Cermak-McCormick Place - Green",
+    "Total Crimes": 1,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 124
+  },
+  {
+    "Stations": "Ashland - Orange",
+    "Total Crimes": 1,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 124
+  },
+  {
+    "Stations": "Addison - Blue",
+    "Total Crimes": 1,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": 124
+  }
+]
