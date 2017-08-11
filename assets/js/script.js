@@ -5,19 +5,13 @@
             lat:41.8781,
             lng:-87.6298
         },
-        zoom:8,
+        zoom:11,
         styles:[
             {"featureType":"administrative","elementType":"labels.text.fill","stylers":[{"color":"#444444"}]},{"featureType":"landscape","elementType":"all","stylers":[{"color":"#f2f2f2"}]},{"featureType":"poi","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"poi.business","elementType":"geometry.fill","stylers":[{"visibility":"on"}]},{"featureType":"road","elementType":"all","stylers":[{"saturation":-100},{"lightness":45}]},{"featureType":"road.highway","elementType":"all","stylers":[{"visibility":"simplified"}]},{"featureType":"road.arterial","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"transit","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"water","elementType":"all","stylers":[{"color":"#b4d4e1"},{"visibility":"on"}]}
         ]
     }
 
     map= Mapster.create(document.getElementById('map-canvas'), options);
-
-    var line_colors = ['blue', 'brown', 'green', 'orange', 'pink', 'purple', 'red', 'yellow'];
-    for(var i=0; i<8; i++) {
-        var kmlLayer = new google.maps.KmlLayer(encodeURI('http://207.176.216.113/CTA_Map/assets/db/RailLines/'+line_colors[i]+'_line.kml'));
-        kmlLayer.setMap(map.gMap);
-    }
 
     var infowindow = new google.maps.InfoWindow({
         position: {lat: -28.643387, lng: 153.612224},
@@ -147,6 +141,94 @@
             overlay.setMap(map.gMap);            
         });
     });
+
+    var rail_line_data = null;
+    var rail_line_svg = null;
+
+    d3.json("assets/db/raillines.json", function(error, data) {
+        if(error) throw error;
+
+        rail_line_data = data;
+
+        var overlay = new google.maps.OverlayView();
+
+        overlay.onAdd = function() {
+            var layer = d3.select(this.getPanes().overlayLayer).append("div").attr("class", "raillines");
+
+            overlay.draw = function() {
+                layer.select('svg').remove();
+
+                var overlayProjection = this.getProjection();
+                var width = jQuery(window).innerWidth();
+                var height = jQuery(window).innerHeight();
+
+                // Turn the overlay projection into a d3 projection
+                var googleMapProjection = function(coordinates) {
+                    var googleCoordinates = new google.maps.LatLng(coordinates[1], coordinates[0]);
+                    var pixelCoordinates = overlayProjection.fromLatLngToDivPixel(googleCoordinates);
+                    return [pixelCoordinates.x, pixelCoordinates.y];
+                }
+
+                var path = d3.geo.path().projection(googleMapProjection);
+
+                rail_line_svg = layer.append("svg")
+                .attr('width', width)
+                .attr('height', height)
+
+                var g = rail_line_svg.selectAll("g")
+                .data(rail_line_data)
+                .enter()
+                .append("g")
+                .attr("class", function(d) {
+                    return d.features[0].properties.color;
+                });
+
+                g.selectAll("path")
+                .data(function(d) {
+                    return d.features;
+                })
+                .enter()
+                .append("path")
+                .attr("d", path)
+                .style("stroke", function(d) {
+                    if(d.properties.color=="Red") { return '#d22030'; } 
+                    if(d.properties.color=="Blue") { return '#01a1dd'; }
+                    if(d.properties.color=="Green") { return '#00974d'; }
+                    if(d.properties.color=="Brown") { return '#643d20'; }
+                    if(d.properties.color=="Purple") { return '#3b2d83'; }
+                    if(d.properties.color=="Yellow") { return '#fcd804'; }
+                    if(d.properties.color=="Pink") { return '#ec83a6'; }
+                    if(d.properties.color=="Orange"){ return '#ef4a25'; }
+                    return "#000";
+                });
+
+                redraw();
+            };
+        };
+
+        // Bind our overlay to the map…
+        overlay.setMap(map.gMap);
+    });
+
+    google.maps.event.addListener(map.gMap, 'drag', redraw);
+    google.maps.event.addListener(map.gMap, 'idle', redraw);
+
+    function redraw() {
+        var transValues = jQuery(jQuery('.raillines').parents('div')[1]).css('transform').replace('matrix', '').replace('(', '').replace(')', '').split(',');
+        var offsetX = parseFloat(transValues[4]);
+        var offsetY = parseFloat(transValues[5]);
+
+        rail_line_svg.attr('transform', 'translate('+(-1*offsetX)+','+(-1*offsetY)+') ');
+
+        rail_line_svg.selectAll('g').attr('transform', 'translate('+offsetX+','+offsetY+')');
+        rail_line_svg.selectAll('g.Red').attr('transform', 'translate('+offsetX+','+offsetY+')');
+        rail_line_svg.selectAll('g.Brown').attr('transform', 'translate('+(offsetX-10)+','+(offsetY-10)+')');
+        rail_line_svg.selectAll('g.Purple').attr('transform', 'translate('+(offsetX-5)+','+(offsetY-5)+')');
+        rail_line_svg.selectAll('g.Pink').attr('transform', 'translate('+(offsetX+5)+','+(offsetY+10)+')');
+        rail_line_svg.selectAll('g.Green').attr('transform', 'translate('+offsetX+','+(offsetY+5)+')');
+        rail_line_svg.selectAll('g.Blue').attr('transform', 'translate('+offsetX+','+(offsetY-15)+')');
+//        rail_line_svg.selectAll('g.Orange').attr('transform', 'translate('+(offsetX-5)+','+offsetY+')');
+    }
 
     function createMarker(latlng, name, crimesInfo, colors) {
 
