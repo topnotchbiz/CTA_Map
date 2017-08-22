@@ -70,7 +70,7 @@ p,h1,h2,li,a,select {
 }
 
 p,select {
-    font-size: 15px;
+    font-size: 18px;
     margin: 5px 0;
     text-align: center;
 }
@@ -84,7 +84,7 @@ h1 {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 24px;
     color: #a19062;
     text-align: center;
     margin: 0px;
@@ -207,14 +207,6 @@ img[src="https://maps.gstatic.com/mapfiles/api-3/images/mapcnt6.png"] {
         font-size: 22px;
         line-height: 22px;
     }
-
-    #logoimg {
-        width: 40px !important;
-    }
-
-    #subhead {
-        font-size: 22px;
-    }
 }
 
 @media screen and (min-width: 800px) {
@@ -228,12 +220,12 @@ img[src="https://maps.gstatic.com/mapfiles/api-3/images/mapcnt6.png"] {
 }
 
 .stations svg {
-    width: 27px;
-    height: 32px;
+    width: 30px;
+    height: 30px;
     font: 14px sans-serif;
     font-weight: bold;
-    transform: translate(-3px, -20px);
     z-index: 99999;
+    -webkit-transform: translate(-4px, -20px);
 }
 
 .raillines path {
@@ -244,12 +236,12 @@ img[src="https://maps.gstatic.com/mapfiles/api-3/images/mapcnt6.png"] {
 
 @-webkit-keyframes pulse {
     0% {
-        -webkit-transform: scale(1.0) translate(-3px, -20px);
+        -webkit-transform: scale(1.0) translate(-4px, -20px);
         opacity: 1;
     }
 
     100% {
-        -webkit-transform: scale(2) translate(-2.5px, -10px);
+        -webkit-transform: scale(2) translate(-2px, -8px);
         opacity: 0;
     }
 }

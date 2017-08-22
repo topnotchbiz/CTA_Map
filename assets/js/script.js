@@ -2,12 +2,135 @@
     var stationsCrimes = [];
     var options={
         center:{
-            lat:41.8781,
-            lng:-87.6298
+            lat:41.88147,
+            lng:-87.6285
         },
-        zoom:11,
+        zoom:14,
+        clickableIcons: false,
         styles:[
-            {"featureType":"administrative","elementType":"labels.text.fill","stylers":[{"color":"#444444"}]},{"featureType":"landscape","elementType":"all","stylers":[{"color":"#f2f2f2"}]},{"featureType":"poi","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"poi.business","elementType":"geometry.fill","stylers":[{"visibility":"on"}]},{"featureType":"road","elementType":"all","stylers":[{"saturation":-100},{"lightness":45}]},{"featureType":"road.highway","elementType":"all","stylers":[{"visibility":"simplified"}]},{"featureType":"road.arterial","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"transit","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"water","elementType":"all","stylers":[{"color":"#b4d4e1"},{"visibility":"on"}]}
+            {
+                "featureType": "administrative",
+                "elementType": "all",
+                "stylers": [
+                    {
+                        "saturation": "-100"
+                    }
+                ]
+            },
+            {
+                "featureType": "administrative.province",
+                "elementType": "all",
+                "stylers": [
+                    {
+                        "visibility": "off"
+                    }
+                ]
+            },
+            {
+                "featureType": "landscape",
+                "elementType": "all",
+                "stylers": [
+                    {
+                        "saturation": -100
+                    },
+                    {
+                        "lightness": 65
+                    },
+                    {
+                        "visibility": "on"
+                    }
+                ]
+            },
+            {
+                "featureType": "poi",
+                "elementType": "all",
+                "stylers": [
+                    {
+                        "saturation": -100
+                    },
+                    {
+                        "lightness": "50"
+                    },
+                    {
+                        "visibility": "simplified"
+                    }
+                ]
+            },
+            {
+                "featureType": "road",
+                "elementType": "all",
+                "stylers": [
+                    {
+                        "saturation": "-100"
+                    }
+                ]
+            },
+            {
+                "featureType": "road.highway",
+                "elementType": "all",
+                "stylers": [
+                    {
+                        "visibility": "simplified"
+                    }
+                ]
+            },
+            {
+                "featureType": "road.arterial",
+                "elementType": "all",
+                "stylers": [
+                    {
+                        "lightness": "30"
+                    }
+                ]
+            },
+            {
+                "featureType": "road.local",
+                "elementType": "all",
+                "stylers": [
+                    {
+                        "lightness": "40"
+                    }
+                ]
+            },
+            {
+                "featureType": "transit",
+                "elementType": "all",
+                "stylers": [
+                    {
+                        "saturation": -100
+                    },
+                    {
+                        "visibility": "simplified"
+                    }
+                ]
+            },
+            {
+                "featureType": "water",
+                "elementType": "geometry",
+                "stylers": [
+                    {
+                        "hue": "#ffff00"
+                    },
+                    {
+                        "lightness": -25
+                    },
+                    {
+                        "saturation": -97
+                    }
+                ]
+            },
+            {
+                "featureType": "water",
+                "elementType": "labels",
+                "stylers": [
+                    {
+                        "lightness": -25
+                    },
+                    {
+                        "saturation": -100
+                    }
+                ]
+            }
         ]
     }
 
@@ -98,7 +221,7 @@
 
                     // Add a circle.
                     marker.append("path")
-                    .attr("d", "m24.847991,12.348467c0,9.08714 -10.258581,17.503067 -10.258581,17.503067c-0.599417,0.491781 -1.580412,0.491781 -2.179829,0c0,0 -10.258581,-8.415927 -10.258581,-17.503067c0.000114,-6.267601 5.08098,-11.348467 11.348524,-11.348467s11.348467,5.080866 11.348467,11.348467z")
+                    .attr("d", "M 15, 15 m -15, 0 a 15,15 0 1,0 30,0 a 15,15 0 1,0 -30,0")
                     .style('fill', function(d) {
                         var colors = [];
 
@@ -119,6 +242,10 @@
                             while (fillColor.length < 6) { fillColor = '0' + fillColor; }
                         }
 
+                        if(d.crimesInfo && d.crimesInfo.Stations && d.crimesInfo.Stations.toLowerCase().indexOf('red')>=0) {
+                            fillColor = 'd22030';
+                        }
+
                         return '#' + fillColor;
                     })
                     .style('fill-opacity', 0.8);
@@ -137,7 +264,7 @@
                 };
             };
 
-            // Bind our overlay to the map…
+            // Bind our overlay to the map
             overlay.setMap(map.gMap);            
         });
     });
@@ -206,42 +333,49 @@
             };
         };
 
-        // Bind our overlay to the map…
+        // Bind our overlay to the map?
         overlay.setMap(map.gMap);
     });
 
     google.maps.event.addListener(map.gMap, 'drag', redraw);
     google.maps.event.addListener(map.gMap, 'idle', redraw);
-
+    google.maps.event.addListener(map.gMap, 'click', function(event) {
+        infowindow.close();
+    });
     function redraw() {
-        var transValues = jQuery(jQuery('.raillines').parents('div')[1]).css('transform').replace('matrix', '').replace('(', '').replace(')', '').split(',');
-        var offsetX = parseFloat(transValues[4]);
-        var offsetY = parseFloat(transValues[5]);
 
-        rail_line_svg.attr('transform', 'translate('+(-1*offsetX)+','+(-1*offsetY)+') ');
+        var transValues = null;
 
-        rail_line_svg.selectAll('g').attr('transform', 'translate('+offsetX+','+offsetY+')');
-        rail_line_svg.selectAll('g.Red').attr('transform', 'translate('+offsetX+','+offsetY+')');
-        rail_line_svg.selectAll('g.Brown').attr('transform', 'translate('+(offsetX-10)+','+(offsetY-10)+')');
-        rail_line_svg.selectAll('g.Purple').attr('transform', 'translate('+(offsetX-5)+','+(offsetY-5)+')');
-        rail_line_svg.selectAll('g.Pink').attr('transform', 'translate('+(offsetX+5)+','+(offsetY+10)+')');
-        rail_line_svg.selectAll('g.Green').attr('transform', 'translate('+offsetX+','+(offsetY+5)+')');
-        rail_line_svg.selectAll('g.Blue').attr('transform', 'translate('+offsetX+','+(offsetY-15)+')');
-//        rail_line_svg.selectAll('g.Orange').attr('transform', 'translate('+(offsetX-5)+','+offsetY+')');
+        if(jQuery(jQuery('.raillines').parents('div')[1]).css('transform')) {
+            transValues = jQuery(jQuery('.raillines').parents('div')[1]).css('transform').replace('matrix', '').replace('(', '').replace(')', '').split(',');
+            var offsetX = parseFloat(transValues[4]);
+            var offsetY = parseFloat(transValues[5]);
+
+            rail_line_svg.attr('transform', 'translate('+(-1*offsetX)+','+(-1*offsetY)+') ');
+
+            rail_line_svg.selectAll('g').attr('transform', 'translate('+offsetX+','+offsetY+')');
+            rail_line_svg.selectAll('g.Purple').attr('transform', 'translate('+(offsetX+5)+','+offsetY+')');
+            rail_line_svg.selectAll('g.Brown').attr('transform', 'translate('+(offsetX-5)+','+offsetY+')');
+        }
     }
 
     function createMarker(latlng, name, crimesInfo, colors) {
 
         var fillColor = colors[0];
 
-        for(var i=1; i<colors.length; i++) {
+        for(var i=0; i<colors.length; i++) {
+
             fillColor = parseInt((parseInt(fillColor, 16) + parseInt(colors[i], 16))/2).toString(16);
 
             while (fillColor.length < 6) { fillColor = '0' + fillColor; }
         }
 
+        if(crimesInfo && crimesInfo.Stations && crimesInfo.Stations.toLowerCase().indexOf('red')>=0) {
+            fillColor = 'd22030';
+        }
+
         var icon = {
-            path: "m24.847991,12.348467c0,9.08714 -10.258581,17.503067 -10.258581,17.503067c-0.599417,0.491781 -1.580412,0.491781 -2.179829,0c0,0 -10.258581,-8.415927 -10.258581,-17.503067c0.000114,-6.267601 5.08098,-11.348467 11.348524,-11.348467s11.348467,5.080866 11.348467,11.348467z",
+            path: "M 15, 15 m -15, 0 a 15,15 0 1,0 30,0 a 15,15 0 1,0 -30,0",
             fillColor: '#' + fillColor,
             fillOpacity: .8,
             anchor: new google.maps.Point(14,30),
@@ -260,8 +394,9 @@
         if(crimesInfo && crimesInfo.Ranking) {
             markerOpts['label'] = {
                 text: crimesInfo.Ranking.toString(),
-                fontSize: "12px",
-                fontWeight: "bold"
+                fontSize: "15px",
+                fontWeight: "bold",
+                color: "white"
             };
         }
 
@@ -270,11 +405,11 @@
         marker.crimesInfo = crimesInfo;
 
         marker.addListener('click', function() {
-            map.gMap.setZoom(18);
+            map.gMap.setZoom(14);
             map.gMap.setCenter(latlng);
 
             var contentString = '<div id="infobox">'+
-            '<h2 id="route"">' + name + '</h2>'+
+            '<h2 id="route" style="color: #' + fillColor + '">' + name + '</h2>'+
             '<p><strong>Total Crimes: </strong>' + this.crimesInfo['Total Crimes']+ '</p>'+
             '<p><strong>Assault & Battery: </strong>' + this.crimesInfo['Assault & Battery']+ '</p>'+
             '<p><strong>Theft & Robbery: </strong>' + this.crimesInfo['Theft & Robbery']+ '</p>'+
