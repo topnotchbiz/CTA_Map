@@ -1,1172 +1,1199 @@
 [
   {
-    "Stations": "Belmont - Brown, Purple, Red",
+    "Line & Stations": "Belmont - Brown, Purple, Red",
     "Total Crimes": 152,
-    "Notes": "4 reports of criminal sexual assault",
+    "Notes": "Most Dangerous L Stop",
     "Theft & Robbery": 89,
     "Assault & Battery": 57,
     "Other": 6,
     "Ranking": 1
   },
   {
-    "Stations": "Washington - Blue",
+    "Line & Stations": "Washington - Blue",
     "Total Crimes": 149,
-    "Notes": "",
+    "Notes": "57 Reports of Pocket Picking",
     "Theft & Robbery": 102,
     "Assault & Battery": 43,
     "Other": 4,
     "Ranking": 2
   },
   {
-    "Stations": "Roosevelt - Green, Orange, Red",
+    "Line & Stations": "Roosevelt - Green, Orange, Red",
     "Total Crimes": 144,
-    "Notes": "",
+    "Notes": "41 Reports of Pocket Picking",
     "Theft & Robbery": 95,
     "Assault & Battery": 42,
     "Other": 7,
     "Ranking": 3
   },
   {
-    "Stations": "Clark/Lake - Blue, Brown, Green, Orange, Pink, Purple",
+    "Line & Stations": "Clark/Lake - Blue, Brown, Green, Orange, Pink, Purple",
     "Total Crimes": 109,
-    "Notes": "",
+    "Notes": "55 Reports of Pocket Picking",
     "Theft & Robbery": 90,
     "Assault & Battery": 16,
     "Other": 3,
     "Ranking": 4
   },
   {
-    "Stations": "Lake - Red",
+    "Line & Stations": "Lake - Red",
     "Total Crimes": 99,
-    "Notes": "",
+    "Notes": "20 Simple Assaults",
     "Theft & Robbery": 73,
     "Assault & Battery": 26,
     "Other": 0,
     "Ranking": 5
   },
   {
-    "Stations": "Chicago - Red",
+    "Line & Stations": "Chicago - Red",
     "Total Crimes": 95,
-    "Notes": "",
+    "Notes": "20 Reports of Theft under $500",
     "Theft & Robbery": 71,
     "Assault & Battery": 22,
     "Other": 2,
     "Ranking": 6
   },
   {
-    "Stations": "Addison - Red",
+    "Line & Stations": "Addison - Red",
     "Total Crimes": 92,
-    "Notes": "",
+    "Notes": "25 Simple Assaults",
     "Theft & Robbery": 54,
     "Assault & Battery": 36,
     "Other": 2,
     "Ranking": 7
   },
   {
-    "Stations": "Pulaski - Blue",
+    "Line & Stations": "Pulaski - Blue",
     "Total Crimes": 78,
-    "Notes": "",
+    "Notes": "26 Strongarm Robberies",
     "Theft & Robbery": 53,
     "Assault & Battery": 25,
     "Other": 0,
     "Ranking": 8
   },
   {
-    "Stations": "95th/Dan Ryan - Red",
+    "Line & Stations": "95th/Dan Ryan - Red",
     "Total Crimes": 76,
-    "Notes": "",
+    "Notes": "23 Reports of Theft under $500",
     "Theft & Robbery": 47,
     "Assault & Battery": 27,
     "Other": 1,
     "Ranking": 9
   },
   {
-    "Stations": "Grand - Red",
+    "Line & Stations": "Grand - Red",
     "Total Crimes": 73,
-    "Notes": "",
+    "Notes": "39 Reports of Pocket Picking",
     "Theft & Robbery": 62,
     "Assault & Battery": 7,
     "Other": 4,
     "Ranking": 10
   },
   {
-    "Stations": "79th - Red",
-    "Total Crimes": 72,
-    "Notes": "",
-    "Theft & Robbery": 51,
-    "Assault & Battery": 20,
+    "Line & Stations": "Monroe - Red",
+    "Total Crimes": 62,
+    "Notes": "7 Strongarm Robberies",
+    "Theft & Robbery": 43,
+    "Assault & Battery": 18,
     "Other": 1,
     "Ranking": 11
   },
   {
-    "Stations": "Monroe - Red",
-    "Total Crimes": 62,
-    "Notes": "",
-    "Theft & Robbery": 43,
-    "Assault & Battery": 18,
+    "Line & Stations": "Howard - Purple, Red, Yellow",
+    "Total Crimes": 61,
+    "Notes": "15 Simple Assualts",
+    "Theft & Robbery": 40,
+    "Assault & Battery": 20,
     "Other": 1,
     "Ranking": 12
   },
   {
-    "Stations": "Howard - Purple, Red, Yellow",
-    "Total Crimes": 61,
-    "Notes": "",
-    "Theft & Robbery": 40,
-    "Assault & Battery": 20,
+    "Line & Stations": "Sox-35th - Red",
+    "Total Crimes": 59,
+    "Notes": "22 Simple Assaults",
+    "Theft & Robbery": 33,
+    "Assault & Battery": 26,
+    "Other": 0,
+    "Ranking": 13
+  },
+  {
+    "Line & Stations": "Damen - Blue",
+    "Total Crimes": 59,
+    "Notes": "21 Simple Assaults",
+    "Theft & Robbery": 36,
+    "Assault & Battery": 23,
+    "Other": 0,
+    "Ranking": 13
+  },
+  {
+    "Line & Stations": "Cicero - Blue",
+    "Total Crimes": 59,
+    "Notes": "8 Aggravated Assaults",
+    "Theft & Robbery": 42,
+    "Assault & Battery": 16,
     "Other": 1,
     "Ranking": 13
   },
   {
-    "Stations": "Sox-35th - Red",
-    "Total Crimes": 59,
-    "Notes": "",
-    "Theft & Robbery": 33,
-    "Assault & Battery": 26,
-    "Other": 0,
-    "Ranking": 14
-  },
-  {
-    "Stations": "Damen - Blue",
-    "Total Crimes": 59,
-    "Notes": "",
-    "Theft & Robbery": 36,
-    "Assault & Battery": 23,
-    "Other": 0,
-    "Ranking": 14
-  },
-  {
-    "Stations": "Cicero - Blue",
-    "Total Crimes": 59,
-    "Notes": "",
-    "Theft & Robbery": 42,
-    "Assault & Battery": 16,
-    "Other": 1,
-    "Ranking": 14
-  },
-  {
-    "Stations": "Sedgwick - Brown, Purple",
+    "Line & Stations": "Sedgwick - Brown, Purple",
     "Total Crimes": 57,
-    "Notes": "",
+    "Notes": "8 Strong Arm Robberies",
     "Theft & Robbery": 34,
     "Assault & Battery": 21,
+    "Other": 2,
+    "Ranking": 16
+  },
+  {
+    "Line & Stations": "King Drive - Green",
+    "Total Crimes": 53,
+    "Notes": "4 Armed Robberies",
+    "Theft & Robbery": 23,
+    "Assault & Battery": 28,
     "Other": 2,
     "Ranking": 17
   },
   {
-    "Stations": "King Drive - Green",
+    "Line & Stations": "Central Park - Pink",
     "Total Crimes": 53,
-    "Notes": "",
-    "Theft & Robbery": 23,
-    "Assault & Battery": 28,
-    "Other": 2,
-    "Ranking": 18
-  },
-  {
-    "Stations": "Central Park - Pink",
-    "Total Crimes": 53,
-    "Notes": "",
+    "Notes": "20 Strongarm Robberies",
     "Theft & Robbery": 44,
     "Assault & Battery": 9,
     "Other": 0,
-    "Ranking": 18
+    "Ranking": 17
   },
   {
-    "Stations": "69th - Red",
+    "Line & Stations": "69th - Red",
     "Total Crimes": 52,
-    "Notes": "",
+    "Notes": "9 Strongarm Robberies",
     "Theft & Robbery": 37,
     "Assault & Battery": 15,
     "Other": 0,
+    "Ranking": 19
+  },
+  {
+    "Line & Stations": "North/Clybourn - Red",
+    "Total Crimes": 51,
+    "Notes": "8 Strongarm Robberies",
+    "Theft & Robbery": 30,
+    "Assault & Battery": 19,
+    "Other": 2,
     "Ranking": 20
   },
   {
-    "Stations": "Garfield - Red",
+    "Line & Stations": "Garfield - Red",
     "Total Crimes": 48,
-    "Notes": "",
+    "Notes": "7 Strongarm Robberies",
     "Theft & Robbery": 33,
     "Assault & Battery": 14,
     "Other": 1,
     "Ranking": 21
   },
   {
-    "Stations": "Western - Blue",
+    "Line & Stations": "Western - Blue",
     "Total Crimes": 47,
-    "Notes": "",
+    "Notes": "4 Armed Robberies",
     "Theft & Robbery": 25,
     "Assault & Battery": 20,
     "Other": 2,
     "Ranking": 22
   },
   {
-    "Stations": "Division - Blue",
+    "Line & Stations": "79th - Red",
     "Total Crimes": 46,
-    "Notes": "",
+    "Notes": "1 Report of Unlawful Use of a Handgun",
+    "Theft & Robbery": 33,
+    "Assault & Battery": 12,
+    "Other": 1,
+    "Ranking": 23
+  },
+  {
+    "Line & Stations": "Division - Blue",
+    "Total Crimes": 46,
+    "Notes": "16 Reports of Theft under $500",
     "Theft & Robbery": 31,
     "Assault & Battery": 13,
     "Other": 2,
     "Ranking": 23
   },
   {
-    "Stations": "Jackson - Blue",
+    "Line & Stations": "Jackson - Blue",
     "Total Crimes": 42,
-    "Notes": "",
+    "Notes": "13 Reports of Pocket Picking",
     "Theft & Robbery": 31,
     "Assault & Battery": 10,
     "Other": 1,
-    "Ranking": 24
+    "Ranking": 25
   },
   {
-    "Stations": "Kedzie-Homan - Blue",
+    "Line & Stations": "Kedzie-Homan - Blue",
     "Total Crimes": 41,
-    "Notes": "",
+    "Notes": "3 Armed Robberies",
     "Theft & Robbery": 30,
     "Assault & Battery": 11,
     "Other": 0,
-    "Ranking": 25
+    "Ranking": 26
   },
   {
-    "Stations": "Berwyn - Red",
+    "Line & Stations": "Berwyn - Red",
     "Total Crimes": 41,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
-    "Other": "",
-    "Ranking": 25
+    "Notes": "4 Aggravated Assaults",
+    "Theft & Robbery": 16,
+    "Assault & Battery": 25,
+    "Other": 0,
+    "Ranking": 26
   },
   {
-    "Stations": "Jackson - Red",
+    "Line & Stations": "Jackson - Red",
     "Total Crimes": 39,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
-    "Other": "",
-    "Ranking": 27
-  },
-  {
-    "Stations": "Clark/Division - Red",
-    "Total Crimes": 39,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
-    "Other": "",
-    "Ranking": 27
-  },
-  {
-    "Stations": "Loyola - Red",
-    "Total Crimes": 36,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
-    "Other": "",
+    "Notes": "Most Common Crime: Theft Under $500",
+    "Theft & Robbery": 11,
+    "Assault & Battery": 28,
+    "Other": 0,
     "Ranking": 29
   },
   {
-    "Stations": "Logan Square - Blue",
-    "Total Crimes": 35,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
-    "Other": "",
+    "Line & Stations": "Clark/Division - Red",
+    "Total Crimes": 41,
+    "Notes": "Most Common Crime: Pick-pocketing",
+    "Theft & Robbery": 29,
+    "Assault & Battery": 11,
+    "Other": 1,
+    "Ranking": 26
+  },
+  {
+    "Line & Stations": "Loyola - Red",
+    "Total Crimes": 36,
+    "Notes": "Most Common Crime: Theft Under $500",
+    "Theft & Robbery": 30,
+    "Assault & Battery": 6,
+    "Other": 0,
     "Ranking": 30
   },
   {
-    "Stations": "Fullerton - Brown, Purple, red",
+    "Line & Stations": "Logan Square - Blue",
     "Total Crimes": 35,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
-    "Other": "",
-    "Ranking": 30
+    "Notes": "Most Common Crime: Theft Over $500",
+    "Theft & Robbery": 26,
+    "Assault & Battery": 8,
+    "Other": 1,
+    "Ranking": 31
   },
   {
-    "Stations": "Jarvis - Red",
+    "Line & Stations": "Fullerton - Brown, Purple, red",
+    "Total Crimes": 35,
+    "Notes": "Most Common Crime: Pick-pocketing",
+    "Theft & Robbery": 26,
+    "Assault & Battery": 7,
+    "Other": 2,
+    "Ranking": 31
+  },
+  {
+    "Line & Stations": "Jarvis - Red",
     "Total Crimes": 33,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
+    "Notes": "Most Common Crime: Pick-pocketing",
+    "Theft & Robbery": 27,
+    "Assault & Battery": 6,
     "Other": "",
-    "Ranking": 32
+    "Ranking": 33
   },
   {
-    "Stations": "Harrison - Red",
+    "Line & Stations": "Harrison - Red",
     "Total Crimes": 33,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
+    "Notes": "Most Common Crime: Theft Under $500",
+    "Theft & Robbery": 23,
+    "Assault & Battery": 10,
     "Other": "",
-    "Ranking": 32
+    "Ranking": 33
   },
   {
-    "Stations": "Clinton - Green, Pink",
+    "Line & Stations": "Clinton - Green, Pink",
     "Total Crimes": 33,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
+    "Notes": "Most Common Crime: Simple Assault",
+    "Theft & Robbery": 16,
+    "Assault & Battery": 17,
     "Other": "",
-    "Ranking": 32
+    "Ranking": 33
   },
   {
-    "Stations": "Ashland - Green, Pink",
+    "Line & Stations": "Ashland - Green, Pink",
     "Total Crimes": 32,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
-    "Other": "",
-    "Ranking": 35
-  },
-  {
-    "Stations": "51st - Green",
-    "Total Crimes": 31,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
+    "Notes": "Most Common Crime: Theft Under $500",
+    "Theft & Robbery": 23,
+    "Assault & Battery": 9,
     "Other": "",
     "Ranking": 36
   },
   {
-    "Stations": "47th - Green, Red",
+    "Line & Stations": "51st - Green",
     "Total Crimes": 31,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
-    "Other": "",
-    "Ranking": 36
+    "Notes": "Two Arrests for Unlawful Possession of a Handgun",
+    "Theft & Robbery": 7,
+    "Assault & Battery": 22,
+    "Other": 2,
+    "Ranking": 38
   },
   {
-    "Stations": "Jefferson Park - Blue",
-    "Total Crimes": 30,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
+    "Line & Stations": "47th - Green, Red",
+    "Total Crimes": 31,
+    "Notes": "Most Common Crime: Theft Under $500",
+    "Theft & Robbery": 23,
+    "Assault & Battery": 8,
     "Other": "",
     "Ranking": 38
   },
   {
-    "Stations": "Argyle - Red",
+    "Line & Stations": "Jefferson Park - Blue",
+    "Total Crimes": 30,
+    "Notes": "Most Common Crime: Theft Under $500",
+    "Theft & Robbery": 23,
+    "Assault & Battery": 6,
+    "Other": 1,
+    "Ranking": 40
+  },
+  {
+    "Line & Stations": "Argyle - Red",
     "Total Crimes": 29,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
-    "Other": "",
-    "Ranking": 39
+    "Notes": "Four Reports of Public Indecency",
+    "Theft & Robbery": 13,
+    "Assault & Battery": 12,
+    "Other": 4,
+    "Ranking": 41
   },
   {
-    "Stations": "Wilson - Purple, Red",
+    "Line & Stations": "Wilson - Purple, Red",
     "Total Crimes": 28,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
+    "Notes": "Most Common Crime: Simple Assault",
+    "Theft & Robbery": 14,
+    "Assault & Battery": 14,
     "Other": "",
-    "Ranking": 40
+    "Ranking": 42
   },
   {
-    "Stations": "Randolph/Wabash - Brown, Orange, Pink, Purple",
+    "Line & Stations": "Randolph/Wabash - Brown, Orange, Pink, Purple",
+    "Total Crimes": 32,
+    "Notes": "Most Common Crime: Theft Under $500",
+    "Theft & Robbery": 27,
+    "Assault & Battery": 5,
+    "Other": "",
+    "Ranking": 36
+  },
+  {
+    "Line & Stations": "63rd - Red",
     "Total Crimes": 28,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
+    "Notes": "Most Common Crime: Theft Under $500",
+    "Theft & Robbery": 19,
+    "Assault & Battery": 9,
     "Other": "",
-    "Ranking": 40
+    "Ranking": 42
   },
   {
-    "Stations": "63rd - Red",
-    "Total Crimes": 28,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
-    "Other": "",
-    "Ranking": 40
-  },
-  {
-    "Stations": "Indiana - Green",
+    "Line & Stations": "Indiana - Green",
     "Total Crimes": 27,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
-    "Other": "",
-    "Ranking": 43
+    "Notes": "Most Common Crime: Armed Robbery",
+    "Theft & Robbery": 17,
+    "Assault & Battery": 8,
+    "Other": 2,
+    "Ranking": 44
   },
   {
-    "Stations": "Bryn Mawr - Red",
+    "Line & Stations": "Bryn Mawr - Red",
     "Total Crimes": 27,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
+    "Notes": "Most Common Crime: Simple Battery",
+    "Theft & Robbery": 10,
+    "Assault & Battery": 17,
     "Other": "",
-    "Ranking": 43
+    "Ranking": 44
   },
   {
-    "Stations": "Harold Washington Library-State/Van Buren - Brown, Orange, Pink, Purple",
+    "Line & Stations": "Harold Washington Library-State/Van Buren - Brown, Orange, Pink, Purple",
     "Total Crimes": 26,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
-    "Other": "",
-    "Ranking": 45
-  },
-  {
-    "Stations": "Clinton - Blue",
-    "Total Crimes": 25,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
-    "Other": "",
+    "Notes": "Most Common Crime: Simple Battery",
+    "Theft & Robbery": 12,
+    "Assault & Battery": 12,
+    "Other": 2,
     "Ranking": 46
   },
   {
-    "Stations": "Thorndale - Red",
-    "Total Crimes": 22,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
+    "Line & Stations": "Clinton - Blue",
+    "Total Crimes": 25,
+    "Notes": "Most Common Crime: Pick-pocketing",
+    "Theft & Robbery": 16,
+    "Assault & Battery": 9,
     "Other": "",
     "Ranking": 47
   },
   {
-    "Stations": "Central - Green",
+    "Line & Stations": "Thorndale - Red",
     "Total Crimes": 22,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
+    "Notes": "Most Common Crime: Simple Assault",
+    "Theft & Robbery": 12,
+    "Assault & Battery": 10,
     "Other": "",
-    "Ranking": 47
+    "Ranking": 48
   },
   {
-    "Stations": "Ashland/63rd - Green",
+    "Line & Stations": "Central - Green",
     "Total Crimes": 22,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
-    "Other": "",
-    "Ranking": 47
+    "Notes": "Most Common Crime: Aggravated Assault",
+    "Theft & Robbery": 9,
+    "Assault & Battery": 11,
+    "Other": 2,
+    "Ranking": 48
   },
   {
-    "Stations": "Adams/Wabash - Brown, Green, Orange, Pink, Purple",
+    "Line & Stations": "Ashland/63rd - Green",
     "Total Crimes": 22,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
+    "Notes": "Most Common Crime: Strongarm Robbery",
+    "Theft & Robbery": 18,
+    "Assault & Battery": 4,
     "Other": "",
-    "Ranking": 47
+    "Ranking": 48
   },
   {
-    "Stations": "47th - Red",
+    "Line & Stations": "Adams/Wabash - Brown, Green, Orange, Pink, Purple",
     "Total Crimes": 22,
-    "Notes": "",
-    "Theft & Robbery": "",
-    "Assault & Battery": "",
+    "Notes": "Most Common Crime: Pocket-Picking",
+    "Theft & Robbery": 18,
+    "Assault & Battery": 4,
     "Other": "",
-    "Ranking": 47
+    "Ranking": 48
   },
   {
-    "Stations": "O'Hare - Blue",
+    "Line & Stations": "47th - Red",
+    "Total Crimes": 22,
+    "Notes": "One Homicide Reported",
+    "Theft & Robbery": 14,
+    "Assault & Battery": 7,
+    "Other": "",
+    "Ranking": 48
+  },
+  {
+    "Line & Stations": "O'Hare - Blue",
     "Total Crimes": 20,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 52
+    "Ranking": 53
   },
   {
-    "Stations": "Cermak-Chinatown - Red",
+    "Line & Stations": "Cermak-Chinatown - Red",
     "Total Crimes": 20,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 52
+    "Ranking": 53
   },
   {
-    "Stations": "Sheridan - Purple, Red",
+    "Line & Stations": "Sheridan - Purple, Red",
     "Total Crimes": 19,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 54
+    "Ranking": 55
   },
   {
-    "Stations": "Pulaski - Green",
+    "Line & Stations": "Pulaski - Green",
     "Total Crimes": 19,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 54
+    "Ranking": 55
   },
   {
-    "Stations": "87th - Red",
+    "Line & Stations": "87th - Red",
     "Total Crimes": 19,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 54
+    "Ranking": 55
   },
   {
-    "Stations": "Western - Orange",
+    "Line & Stations": "Western - Orange",
     "Total Crimes": 18,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 57
+    "Ranking": 58
   },
   {
-    "Stations": "Merchandise Mart - Brown, Purple",
+    "Line & Stations": "Merchandise Mart - Brown, Purple",
     "Total Crimes": 18,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 57
+    "Ranking": 58
   },
   {
-    "Stations": "Garfield - Green",
+    "Line & Stations": "Garfield - Green",
     "Total Crimes": 18,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 57
+    "Ranking": 58
   },
   {
-    "Stations": "Morse - Red",
+    "Line & Stations": "Morse - Red",
     "Total Crimes": 17,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 60
+    "Ranking": 61
   },
   {
-    "Stations": "Belmont - Blue",
+    "Line & Stations": "Belmont - Blue",
     "Total Crimes": 17,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 60
+    "Ranking": 61
   },
   {
-    "Stations": "Washington/Wells - Brown, Orange, Pink, Purple",
+    "Line & Stations": "Washington/Wells - Brown, Orange, Pink, Purple",
     "Total Crimes": 16,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 62
+    "Ranking": 63
   },
   {
-    "Stations": "Racine - Blue",
+    "Line & Stations": "Racine - Blue",
     "Total Crimes": 16,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 62
+    "Ranking": 63
   },
   {
-    "Stations": "Monroe - Blue",
+    "Line & Stations": "Monroe - Blue",
     "Total Crimes": 15,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 64
+    "Ranking": 65
   },
   {
-    "Stations": "Chicago - Brown, Purple",
+    "Line & Stations": "Chicago - Brown, Purple",
     "Total Crimes": 15,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 64
+    "Ranking": 65
   },
   {
-    "Stations": "UIC-Halsted - Blue",
+    "Line & Stations": "UIC-Halsted - Blue",
     "Total Crimes": 14,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 66
+    "Ranking": 67
   },
   {
-    "Stations": "Quincy/Wells - Brown, Orange, Pink, Purple",
+    "Line & Stations": "Quincy/Wells - Brown, Orange, Pink, Purple",
     "Total Crimes": 14,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 66
+    "Ranking": 67
   },
   {
-    "Stations": "Harlem - Blue",
+    "Line & Stations": "Harlem - Blue",
     "Total Crimes": 14,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 66
+    "Ranking": 67
   },
   {
-    "Stations": "Halsted - Green",
+    "Line & Stations": "Halsted - Green",
     "Total Crimes": 14,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 66
+    "Ranking": 67
   },
   {
-    "Stations": "Armitage - Brown, Purple",
+    "Line & Stations": "Armitage - Brown, Purple",
     "Total Crimes": 14,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 66
+    "Ranking": 67
   },
   {
-    "Stations": "35th-Bronzeville-IIT - Green",
+    "Line & Stations": "35th-Bronzeville-IIT - Green",
     "Total Crimes": 14,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 66
+    "Ranking": 67
   },
   {
-    "Stations": "LaSalle/Van Buren - Brown, Orange, Pink, Purple",
+    "Line & Stations": "LaSalle/Van Buren - Brown, Orange, Pink, Purple",
     "Total Crimes": 13,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 72
+    "Ranking": 73
   },
   {
-    "Stations": "Austin - Green",
+    "Line & Stations": "Austin - Green",
     "Total Crimes": 13,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 72
+    "Ranking": 73
   },
   {
-    "Stations": "Laramie - Green",
+    "Line & Stations": "Laramie - Green",
     "Total Crimes": 12,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 74
+    "Ranking": 75
   },
   {
-    "Stations": "Kimball - Brown",
+    "Line & Stations": "Kimball - Brown",
     "Total Crimes": 12,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 74
+    "Ranking": 75
   },
   {
-    "Stations": "Cottage Grove - Green",
+    "Line & Stations": "Cottage Grove - Green",
     "Total Crimes": 12,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 74
+    "Ranking": 75
   },
   {
-    "Stations": "35th/Archer - Orange",
+    "Line & Stations": "35th/Archer - Orange",
     "Total Crimes": 12,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 74
+    "Ranking": 75
   },
   {
-    "Stations": "Morgan - Green, Pink",
+    "Line & Stations": "Morgan - Green, Pink",
     "Total Crimes": 11,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 78
+    "Ranking": 79
   },
   {
-    "Stations": "Midway - Orange",
+    "Line & Stations": "Midway - Orange",
     "Total Crimes": 11,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 78
+    "Ranking": 79
   },
   {
-    "Stations": "Cicero - Green",
+    "Line & Stations": "Cicero - Green",
     "Total Crimes": 11,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 78
+    "Ranking": 79
   },
   {
-    "Stations": "Lawrence - Red",
+    "Line & Stations": "Lawrence - Red",
     "Total Crimes": 10,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 81
+    "Ranking": 82
   },
   {
-    "Stations": "LaSalle - Blue",
+    "Line & Stations": "LaSalle - Blue",
     "Total Crimes": 10,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 81
+    "Ranking": 82
   },
   {
-    "Stations": "Halsted - Orange",
+    "Line & Stations": "Halsted - Orange",
     "Total Crimes": 10,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 81
+    "Ranking": 82
   },
   {
-    "Stations": "43rd - Green",
+    "Line & Stations": "43rd - Green",
     "Total Crimes": 10,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 81
+    "Ranking": 82
   },
   {
-    "Stations": "Pulaski - Orange",
+    "Line & Stations": "Pulaski - Orange",
     "Total Crimes": 9,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 85
+    "Ranking": 86
   },
   {
-    "Stations": "Kostner - Pink",
+    "Line & Stations": "Kostner - Pink",
     "Total Crimes": 9,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 85
+    "Ranking": 86
   },
   {
-    "Stations": "Kedzie - Pink",
+    "Line & Stations": "Kedzie - Pink",
     "Total Crimes": 9,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 85
+    "Ranking": 86
   },
   {
-    "Stations": "Irving Park - Blue",
+    "Line & Stations": "Irving Park - Blue",
     "Total Crimes": 9,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 85
+    "Ranking": 86
   },
   {
-    "Stations": "Damen - Pink",
+    "Line & Stations": "Damen - Pink",
     "Total Crimes": 9,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 85
+    "Ranking": 86
   },
   {
-    "Stations": "Chicago - Blue",
+    "Line & Stations": "Chicago - Blue",
     "Total Crimes": 9,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 85
+    "Ranking": 86
   },
   {
-    "Stations": "California - Pink",
+    "Line & Stations": "California - Pink",
     "Total Crimes": 9,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 85
+    "Ranking": 86
   },
   {
-    "Stations": "Kedzie - Orange",
+    "Line & Stations": "Kedzie - Orange",
     "Total Crimes": 8,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 92
+    "Ranking": 93
   },
   {
-    "Stations": "Grand - Blue",
+    "Line & Stations": "Grand - Blue",
     "Total Crimes": 8,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 92
+    "Ranking": 93
   },
   {
-    "Stations": "Diversey - Brown, Purple",
+    "Line & Stations": "Diversey - Brown, Purple",
     "Total Crimes": 8,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 92
+    "Ranking": 93
   },
   {
-    "Stations": "Conservatory - Green",
+    "Line & Stations": "Conservatory - Green",
     "Total Crimes": 8,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 92
+    "Ranking": 93
   },
   {
-    "Stations": "Pulaski - Pink",
+    "Line & Stations": "Pulaski - Pink",
     "Total Crimes": 7,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 96
+    "Ranking": 97
   },
   {
-    "Stations": "Montrose - Blue",
+    "Line & Stations": "Montrose - Blue",
     "Total Crimes": 7,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 96
+    "Ranking": 97
   },
   {
-    "Stations": "Cumberland - Blue",
+    "Line & Stations": "Cumberland - Blue",
     "Total Crimes": 7,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 96
+    "Ranking": 97
   },
   {
-    "Stations": "Kedzie - Green",
+    "Line & Stations": "Kedzie - Green",
     "Total Crimes": 6,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 99
+    "Ranking": 100
   },
   {
-    "Stations": "Granville - Red",
+    "Line & Stations": "Granville - Red",
     "Total Crimes": 6,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 99
+    "Ranking": 100
   },
   {
-    "Stations": "California - Blue",
+    "Line & Stations": "California - Blue",
     "Total Crimes": 6,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 99
+    "Ranking": 100
   },
   {
-    "Stations": "Western - Pink",
+    "Line & Stations": "Western - Pink",
     "Total Crimes": 5,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 102
+    "Ranking": 103
   },
   {
-    "Stations": "Western - Brown",
+    "Line & Stations": "Western - Brown",
     "Total Crimes": 5,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 102
+    "Ranking": 103
   },
   {
-    "Stations": "Montrose - Brown",
+    "Line & Stations": "Montrose - Brown",
     "Total Crimes": 5,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 102
+    "Ranking": 103
   },
   {
-    "Stations": "Illinois Medical District - Blue",
+    "Line & Stations": "Illinois Medical District - Blue",
     "Total Crimes": 5,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 102
+    "Ranking": 103
   },
   {
-    "Stations": "Cottage Grove - Green",
+    "Line & Stations": "Cottage Grove - Green",
     "Total Crimes": 5,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 102
+    "Ranking": 103
   },
   {
-    "Stations": "Cermak-McCormick Place - Green",
+    "Line & Stations": "Cermak-McCormick Place - Green",
     "Total Crimes": 5,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 102
+    "Ranking": 103
   },
   {
-    "Stations": "Wellington - Brown, Purple",
+    "Line & Stations": "Wellington - Brown, Purple",
     "Total Crimes": 4,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 108
+    "Ranking": 109
   },
   {
-    "Stations": "Randolph/Wabash - Brown, Green, Orange, Pink, Purple",
+    "Line & Stations": "Randolph/Wabash - Brown, Green, Orange, Pink, Purple",
     "Total Crimes": 4,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 108
+    "Ranking": 109
   },
   {
-    "Stations": "Damen - Brown",
+    "Line & Stations": "Damen - Brown",
     "Total Crimes": 4,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 108
+    "Ranking": 109
   },
   {
-    "Stations": "California - Green",
+    "Line & Stations": "California - Green",
     "Total Crimes": 4,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 108
+    "Ranking": 109
   },
   {
-    "Stations": "Kedzie - Blue",
+    "Line & Stations": "Kedzie - Blue",
     "Total Crimes": 3,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 112
+    "Ranking": 113
   },
   {
-    "Stations": "Addison - Brown",
+    "Line & Stations": "Addison - Brown",
     "Total Crimes": 3,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 112
+    "Ranking": 113
   },
   {
-    "Stations": "18th - Pink",
+    "Line & Stations": "18th - Pink",
     "Total Crimes": 3,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 112
+    "Ranking": 113
   },
   {
-    "Stations": "Southport - Brown",
+    "Line & Stations": "Southport - Brown",
     "Total Crimes": 2,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 115
+    "Ranking": 116
   },
   {
-    "Stations": "Rockwell - Brown",
+    "Line & Stations": "Rockwell - Brown",
     "Total Crimes": 2,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 115
+    "Ranking": 116
   },
   {
-    "Stations": "Polk - Pink",
+    "Line & Stations": "Polk - Pink",
     "Total Crimes": 2,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 115
+    "Ranking": 116
   },
   {
-    "Stations": "Kedzie - Green",
+    "Line & Stations": "Kedzie - Green",
     "Total Crimes": 2,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 115
+    "Ranking": 116
   },
   {
-    "Stations": "Kedzie - Brown",
+    "Line & Stations": "Kedzie - Brown",
     "Total Crimes": 2,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 115
+    "Ranking": 116
   },
   {
-    "Stations": "Irving Park - Brown",
+    "Line & Stations": "Irving Park - Brown",
     "Total Crimes": 2,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 115
+    "Ranking": 116
   },
   {
-    "Stations": "Clark/Division - Red",
+    "Line & Stations": "Clark/Division - Red",
     "Total Crimes": 2,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 115
+    "Ranking": 116
   },
   {
-    "Stations": "California - Green",
+    "Line & Stations": "California - Green",
     "Total Crimes": 2,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 115
+    "Ranking": 116
   },
   {
-    "Stations": "35/Archer - Orange",
+    "Line & Stations": "35/Archer - Orange",
     "Total Crimes": 2,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 115
+    "Ranking": 116
   },
   {
-    "Stations": "Rosemont - Blue",
+    "Line & Stations": "Rosemont - Blue",
     "Total Crimes": 1,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 124
+    "Ranking": 125
   },
   {
-    "Stations": "Kostner - Orange",
+    "Line & Stations": "Kostner - Orange",
     "Total Crimes": 1,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 124
+    "Ranking": 125
   },
   {
-    "Stations": "Howard - Red",
+    "Line & Stations": "Howard - Red",
     "Total Crimes": 1,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 124
+    "Ranking": 125
   },
   {
-    "Stations": "Diversey - Brown, Purplr",
+    "Line & Stations": "Diversey - Brown, Purplr",
     "Total Crimes": 1,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 124
+    "Ranking": 125
   },
   {
-    "Stations": "Cermak-McCormick Place - Green",
+    "Line & Stations": "Cermak-McCormick Place - Green",
     "Total Crimes": 1,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 124
+    "Ranking": 125
   },
   {
-    "Stations": "Ashland - Orange",
+    "Line & Stations": "Ashland - Orange",
     "Total Crimes": 1,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 124
+    "Ranking": 125
   },
   {
-    "Stations": "Addison - Blue",
+    "Line & Stations": "Addison - Blue",
     "Total Crimes": 1,
     "Notes": "",
     "Theft & Robbery": "",
     "Assault & Battery": "",
     "Other": "",
-    "Ranking": 124
+    "Ranking": 125
+  },
+  {
+    "Line & Stations": "",
+    "Total Crimes": 1,
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": ""
+  },
+  {
+    "Line & Stations": "",
+    "Total Crimes": "",
+    "Notes": "",
+    "Theft & Robbery": "",
+    "Assault & Battery": "",
+    "Other": "",
+    "Ranking": ""
   }
 ]
