@@ -410,11 +410,15 @@
 
             var contentString = '<div id="infobox">'+
             '<h2 id="route" style="color: #' + fillColor + '">' + name + '</h2>'+
-            '<p><strong>Total Crimes: </strong>' + this.crimesInfo['Total Crimes']+ '</p>'+
-            '<p><strong>Assault & Battery: </strong>' + this.crimesInfo['Assault & Battery']+ '</p>'+
-            '<p><strong>Theft & Robbery: </strong>' + this.crimesInfo['Theft & Robbery']+ '</p>'+
-            '<p><strong>Notes: </strong>' + this.crimesInfo['Notes']+ '</p>'+
-            '</div>';
+            '<p><strong>Total Crimes: </strong>' + this.crimesInfo['Total Crimes']+ '</p>';
+
+            if(parseInt(this.crimesInfo['Ranking'])<51) {
+                contentString += '<p><strong>Assault & Battery: </strong>' + this.crimesInfo['Assault & Battery']+ '</p>'+
+                '<p><strong>Theft & Robbery: </strong>' + this.crimesInfo['Theft & Robbery']+ '</p>'+
+                '<p><strong>Notes: </strong>' + this.crimesInfo['Notes']+ '</p>';
+            }
+            
+            contentString += '</div>';
 
             infowindow.setContent(contentString);
             infowindow.setPosition(latlng);
